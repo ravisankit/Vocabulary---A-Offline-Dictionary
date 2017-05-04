@@ -1,0 +1,7 @@
+#Thu May 04 22:10:30 IST 2017
+base.0=C\:\\Users\\Ankit\\Documents\\GitHub\\Vocabulary---A-Offline-Dictionary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6cc9384704d2d936bcc3ebd31e860eb54c8917d9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Ankit\\Documents\\GitHub\\Vocabulary---A-Offline-Dictionary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bd78a8465d9104e6ca5f63b63a3b9ccad32fd4b3\\classes.dex
+base.1=C\:\\Users\\Ankit\\Documents\\GitHub\\Vocabulary---A-Offline-Dictionary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bd78a8465d9104e6ca5f63b63a3b9ccad32fd4b3
+file.0=C\:\\Users\\Ankit\\Documents\\GitHub\\Vocabulary---A-Offline-Dictionary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6cc9384704d2d936bcc3ebd31e860eb54c8917d9\\classes.dex

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_3431a835e09712bd53178457569736cde3d69b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_4ec43bcf2d9674eea2eb474240c66856a46ec0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c0860ec48fe6bcca3d51d131fdba4589b674fe12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_a1577b0a9a4f3246b1afc00f4c9c586b491daf01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_038deb5f7c0bae1d1fc8c4a53db95bb07c04e56d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_54c915016a6144373a466bebd95a5cb6bb8f6b69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_efb631e040b3f0f2c4b084ed99282e0642b5c168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c18e54ff58198c7bc1d9b50527e2d886ac29e72">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bd78a8465d9104e6ca5f63b63a3b9ccad32fd4b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_04696c3674401b8d1ec191ee88c1917dbd33f53e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e40374f9e739a1e3ef29a360f0ffd54da273e62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_b2f0ae08223e2fdc32b2fde7af6158685057953b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.github.amlcurran.showcaseview\library\5.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a06b0579dbe59192ef460e3de04657720925d05b">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.amlcurran.showcaseview-library-5.4.3_0125d09736b75877e3911586d73b8394fa7c851c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_d1434e68fdf9b763f66632f426df4516b7143ecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_826ac78883f504a1b878b94714446eff2d5edd0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.github.sd6352051.niftydialogeffects\niftydialogeffects\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6e011916db951e72f3a2be65cfb864bf5408035">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.sd6352051.niftydialogeffects-niftydialogeffects-1.0.0_4bef21d6800681faf13b6ddc50dc9a33152d64e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_d3987b75058abcf91059a9c93bf9943c8dec6ead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_6f4aa557b60fb7261d332ead85d306c235e5f885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d86aa36676fa2a42fae73cdba5923edcc3e2760e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_4a6eb5332a6cafcebe1020cf53bd74f3d0f4ff9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f1daf3417b7f15b9f756e07e99da4908ff1fb949">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6cc9384704d2d936bcc3ebd31e860eb54c8917d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1b5d737967196f7d8f40adca35ed2d6f757d6add\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_75e7f018a978abe5b283b61edc6efa1084e98cca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_c7a2e0d5c047f735349cdb2c7f3f1cc12800daae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_da3710e2f89442e3f7406f1dadf2f197cba39c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_1de091e7b48de3170612a09c148468384d07a58e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_d23af4de38730ac7adb25631f08eab421218eb9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_303ba6de041a836bd659bd188dd2d2d6a473c95b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_8e9ae4e5f73a50d5761d60f67bf01731f2e60ff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_d016356d0d25259da75d39a54c05bda3f12c272b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_89b4610733b2db261cf361a2b7ec941631f3d112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_d4f7b49e18489b415bb60e0f554814af3192e627\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_7c399dc84b19ba7bf371b8fd1dd5535e90e6e869\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_3086c93de677644fcc9b799eb59e661bd6789579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_6f2f52fd180f27d3440f02838e2f4cd44a287885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e30bd85affdcc4ecdb0bda4f1df39983e656e0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Ankit\Documents\GitHub\Vocabulary---A-Offline-Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a27a4c9c1d8d4e2f95d01a5545e881a1c7debf20\classes.dex" />
+    </item>
+
+</items>

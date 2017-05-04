@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#d4c71f1f</color>
+    <color name="bluetext">#25abc6</color>
+    <color name="blue">#de36b8d9</color>
+    <color name="bluetext2">#107a8f</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="robotolightbar">#dadada</color>
+    <color name="robotolightblack">#424242</color>
+    <color name="robotolightoffwhite">#f5f5f5</color>
+</resources>

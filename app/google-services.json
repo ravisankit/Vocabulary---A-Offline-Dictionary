@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "214690557511",
+    "firebase_url": "https://vocabulary-bc82a.firebaseio.com",
+    "project_id": "vocabulary-bc82a",
+    "storage_bucket": "vocabulary-bc82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214690557511:android:dbda312142c4a198",
+        "android_client_info": {
+          "package_name": "com.ravi.ameliorate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214690557511-1r56qvp4pdq504vh3us99nmsj1k2vbfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "AIzaSyAmB6FKE2l9_ijgOOiJW-oM514xSobBbYg" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_add_word"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ravi.ameliorate.activity.AddWord">
+
+    <android.support.v7.widget.ActionBarContainer
+        android:id="@+id/relativeBar"
+        android:layout_gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        card_view:cardCornerRadius="2dp">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:background="@color/bluetext">
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:gravity="center"
+                android:src="@drawable/arrow_moveleft"
+                android:text="Back"
+                android:layout_marginTop="3dp"
+                android:textSize="17dp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Add New Words"
+                    android:visibility="visible"
+                    android:textColor="@color/white"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="17dp" />
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.ActionBarContainer>
+
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardHome2"
+        android:layout_below="@+id/relativeBar"
+        android:layout_above="@+id/addWord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        card_view:cardCornerRadius="2dp">
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/robotolightbar">
+
+        <LinearLayout
+            android:id="@+id/urlLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:padding="4dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:visibility="visible"
+            android:layout_alignParentTop="true">
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_margin="5dp"
+                card_view:cardCornerRadius="2dp">
+            <EditText
+                android:id="@+id/word"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_weight="0.9"
+                android:textSize="16dp"
+                android:padding="5dp"
+                android:fontFamily="sans-serif-light"
+                android:background="@color/white"
+                android:hint="Enter word" />
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_margin="5dp"
+                card_view:cardCornerRadius="2dp">
+
+                <EditText
+                    android:id="@+id/pronunC"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="0.9"
+                    android:textSize="16dp"
+                    android:padding="5dp"
+                    android:fontFamily="sans-serif-light"
+                    android:background="@color/white"
+                    android:hint="pronunciation" />
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_margin="5dp"
+                card_view:cardCornerRadius="2dp">
+
+            <EditText
+                android:id="@+id/meaning"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_weight="0.9"
+                android:textSize="16dp"
+                android:padding="5dp"
+                android:fontFamily="sans-serif-light"
+                android:background="@color/white"
+                android:hint="Enter meaning 1" />
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_margin="5dp"
+                card_view:cardCornerRadius="2dp">
+
+                <EditText
+                    android:id="@+id/meaning2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="0.9"
+                    android:textSize="16dp"
+                    android:padding="5dp"
+                    android:fontFamily="sans-serif-light"
+                    android:background="@color/white"
+                    android:hint="Enter meaning 2" />
+
+            </android.support.v7.widget.CardView>
+
+
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_margin="5dp"
+                card_view:cardCornerRadius="2dp">
+
+                <EditText
+                    android:id="@+id/synonymsA"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="0.9"
+                    android:textSize="16dp"
+                    android:padding="5dp"
+                    android:fontFamily="sans-serif-light"
+                    android:background="@color/white"
+                    android:hint="Enter synonym(s)" />
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_margin="5dp"
+                card_view:cardCornerRadius="2dp">
+
+                <EditText
+                    android:id="@+id/antonymsA"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="0.9"
+                    android:textSize="16dp"
+                    android:padding="5dp"
+                    android:fontFamily="sans-serif-light"
+                    android:background="@color/white"
+                    android:hint="Enter antonym(s)" />
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:visibility="visible"
+                android:layout_margin="5dp"
+                card_view:cardCornerRadius="2dp">
+
+                <EditText
+                    android:id="@+id/makeSentence"
+                    android:layout_width="fill_parent"
+                    android:layout_height="120dp"
+                    android:textSize="16dp"
+                    android:padding="5dp"
+                    android:gravity="top"
+                    android:fontFamily="sans-serif-light"
+                    android:inputType="textMultiLine"
+                    android:scrollHorizontally="false"
+                    android:background="@color/white"
+                    android:hint="Make your own sentence or note..." />
+
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+
+        </ScrollView>
+
+    </android.support.v7.widget.CardView>
+
+    <Button
+        android:id="@+id/addWord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bluetext2"
+        android:textColor="@color/white"
+        android:text="Add Word"
+        android:layout_alignParentBottom="true" />
+
+
+
+</RelativeLayout>

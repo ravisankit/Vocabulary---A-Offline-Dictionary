@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ankit\\Documents\\GitHub\\Vocabulary---A-Offline-Dictionary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Ankit\\Documents\\GitHub\\Vocabulary---A-Offline-Dictionary\\app\\build\\intermediates\\exploded-aar\\com.github.sd6352051.niftydialogeffects\\niftydialogeffects\\1.0.0\\res\\values-w360dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 45,
+                        "endOffset": 235
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/GitHub/NiftyDialog/NiftyDialogEffects/library/src/main/res/values-w480dp/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="dialog_padding">36dp</dimen>
+
+</resources>

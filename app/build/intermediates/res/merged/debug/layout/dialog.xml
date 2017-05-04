@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    >
+
+    <TextView
+        android:id="@+id/invoicetext"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        android:padding="8dp"
+        android:gravity="left"
+        android:textSize="28dp"
+        android:textColor="@color/robotolightblack" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_below="@+id/invoicetext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:text="Hello"
+        android:textSize="16dp"
+        android:textColor="@color/robotolightblack" />
+
+    <LinearLayout
+        android:layout_below="@+id/text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp">
+
+
+
+        <TextView
+            android:id="@+id/dialogButtonOK"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text"
+            android:background="@color/white"
+            android:gravity="right"
+            android:textColor="@color/blue"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="0.9"
+            android:textSize="16dp"
+            android:text="YES"
+            />
+
+        <TextView
+            android:id="@+id/dialogButtoncancel"
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text"
+            android:background="@color/white"
+            android:gravity="center"
+            android:textSize="16dp"
+            android:textColor="@color/blue"
+            android:layout_weight="0.7"
+            android:text="NO"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>
